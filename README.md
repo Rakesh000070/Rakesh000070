@@ -1,21 +1,114 @@
-# 💫 About Me:
-Hey there! 👋 I'm Rakesh<br><br>Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and B.Tech IT student with a deep interest in Full-stack development .<br><br>---<br><br>🚀 About Me<br>- 🔭 Currently working on exciting web projects and honing my React skills<br>- 🌱 Learning full-stack development with a focus on React, Node.js, and data visualization<br>- 👯 Open to collaborating on web development, frontend/backend apps, and data-driven projects<br>- 📊 Domain focus: Web Development & Data Analytics<br>- 📚 Completed: HTML, CSS, JavaScript, React.js,Node.js | Currently diving into Express.js<br>- 🧠 Curious about system design, real-time applications, and scalable architecture<br><br>---<br><br>💬 Ask Me About<br>- Frontend development (HTML, CSS, JavaScript, React)<br>- Backend basics (Node.js, Express)<br>- Git & GitHub workflows<br>- Academic and personal project guidance<br>- Anything tech-related — I love to chat!<br><br>---<br><br>📫 How to Reach Me<br>- 📧 Email: [rakesh2332341k@gmail.com]<br>- 💼 LinkedIn[www.linkedin.com/in/rakesh-nayak07]<br>- 🌐 Portfolio [https://rakesh-nayak.netlify.app/]<br><br>---<br><br>⚡ Fun Fact<br>I love turning thinking into code 🧑‍💻 and ideas into impact 💡.<br><br>Thanks for visiting! Don't forget to ⭐ your favorite repos!
+<h1 align="center">👋 Hey there! I'm <span style="color:#61dafb">Rakesh Nayak</span></h1>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakesh000070&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rakesh000070&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh000070&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakesh000070&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakesh000070&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  🚀 Full-Stack Developer | 🎓 B.Tech IT Student | 🧠 Curious Learner | 💡 Code. Build. Innovate.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rakesh000070&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a B.Tech in Information Technology. I love building full-stack applications that are fast, scalable, and user-friendly. Whether it's the frontend UI magic ✨ or backend logic ⚙️, I enjoy both sides of the stack!
+
+### 🚀 What I'm Doing
+- 🔭 Working on exciting React & Node.js projects
+- 🌱 Diving deep into Express.js and modern web ecosystems
+- 💡 Exploring system design, real-time apps, and scalable architectures
+- 📊 Domain focus: **Web Development & Data Analytics**
+
+### 🤝 Let's Collaborate On
+- Frontend / Backend Web Applications
+- Full-Stack Projects
+- Real-time Data Dashboards
+- Dev Portfolios & UI-focused tools
+
+---
+
+## 💬 Ask Me About
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Git & GitHub: Workflow, Open Source
+- Tech Careers, Project Building, College Tech Guidance
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [rakesh2332341k@gmail.com](mailto:rakesh2332341k@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rakesh-nayak07](https://www.linkedin.com/in/rakesh-nayak07)
+- 🌐 Portfolio: [rakesh-nayak.netlify.app](https://rakesh-nayak.netlify.app)
+
+---
+
+## 💻 Tech Stack
+
+> 💡 “Technology is best when it brings people together.” — Matt Mullenweg
+
+### Languages & Fundamentals
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh000070&theme=highcontrast&hide_border=true&show_icons=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh000070&theme=highcontrast&hide_border=true&layout=compact" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh000070&theme=highcontrast&hide_border=true" width="400" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh000070&theme=darcula&no-frame=true&no-bg=false&margin-w=6" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rakesh000070&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning ideas into interactive websites, and problems into production-ready code.  
+> 🧠 Coffee, code, and creativity is how I roll!
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Rakesh000070&icon=2&color=3" alt="visitor count" />
+</p>
+
+---
+
+<!-- Proudly created with 💙 by Rakesh using ChatGPT-4.0 style formatting -->
