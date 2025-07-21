@@ -14,7 +14,7 @@ Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a
 - 🔭 Working on exciting React & Node.js projects
 - 🌱 Diving deep into Express.js and modern web ecosystems
 - 💡 Exploring system design, real-time apps, and scalable architectures
-- 📊 Domain focus: **Web Development & Data Analytics**
+- 📊 Domain focus: **Web Development**
 
 ### 🤝 Let's Collaborate On
 - Frontend / Backend Web Applications
