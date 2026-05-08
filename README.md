@@ -36,7 +36,7 @@ Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a
 
 - 📧 Email: [rakesh2332341k@gmail.com](mailto:rakesh2332341k@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rakesh-nayak07](https://www.linkedin.com/in/rakesh-nayak07)
-- 🌐 Portfolio: [rakesh-nayak.netlify.app](https://rakesh-nayak.netlify.app)
+- 🌐 Portfolio: [rakesh-nayak.netlify.app](https://portfolio-plum-nine-78.vercel.app/)
 
 ---
 
