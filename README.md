@@ -98,7 +98,10 @@ Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rakesh000070&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Rakesh000070&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" 
+    alt="Top Contributed Repo" 
+  />
 </div>
 
 ---
