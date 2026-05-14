@@ -72,12 +72,17 @@ Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh000070&theme=highcontrast&hide_border=true&show_icons=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh000070&theme=highcontrast&hide_border=true&layout=compact" width="300" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rakesh000070&show_icons=true&theme=highcontrast&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh000070&layout=compact&theme=highcontrast&hide_border=true" height="170"/>
+
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh000070&theme=highcontrast&hide_border=true" width="400" />
+
+<img src="https://streak-stats.demolab.com?user=Rakesh000070&theme=highcontrast&hide_border=true" height="170"/>
+
 </div>
 
 ---
