@@ -113,7 +113,7 @@ Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rakesh000070&icon=2&color=3" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Rakesh000070&style=flat-square&color=brightgreen" />
 </p>
 
 ---
