@@ -1,121 +1,190 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#61dafb">Rakesh Nayak</span></h1>
+<div align="center">
 
-<p align="center">
-  🚀 Full-Stack Developer | 🎓 B.Tech IT Student | 🧠 Curious Learner | 💡 Code. Build. Innovate.
+# 👋 Hi, I'm Rakesh Nayak
+
+### 💻 Full Stack Developer • 🚀 MERN Stack Enthusiast • 🎓 B.Tech IT Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Rakesh000070&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rakesh000070?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Rakesh000070?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
-
----
-
-## 💫 About Me
-
-Hey there! I'm Rakesh — a passionate Full-Stack Developer currently pursuing a B.Tech in Information Technology. I love building full-stack applications that are fast, scalable, and user-friendly. Whether it's the frontend UI magic ✨ or backend logic ⚙️, I enjoy both sides of the stack!
-
-### 🚀 What I'm Doing
-- 🔭 Working on exciting React & Node.js projects
-- 🌱 Diving deep into Express.js and modern web ecosystems
-- 💡 Exploring system design, real-time apps, and scalable architectures
-- 📊 Domain focus: **Web Development**
-
-### 🤝 Let's Collaborate On
-- Frontend / Backend Web Applications
-- Full-Stack Projects
-- Real-time Data Dashboards
-- Dev Portfolios & UI-focused tools
-
----
-
-## 💬 Ask Me About
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js
-- Git & GitHub: Workflow, Open Source
-- Tech Careers, Project Building, College Tech Guidance
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: [rakesh2332341k@gmail.com](mailto:rakesh2332341k@gmail.com)
-- 💼 LinkedIn: [Rakesh Nayak](https://www.linkedin.com/in/rakesh-nayak07)
-- 🌐 Portfolio: [Rakesh-dev](https://rakesh-dev.vercel.app/)
-
----
-
-## 💻 Tech Stack
-
-> 💡 “Technology is best when it brings people together.” — Matt Mullenweg
-
-### Languages & Fundamentals
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rakesh000070&show_icons=true&theme=highcontrast&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh000070&layout=compact&theme=highcontrast&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rakesh000070&theme=highcontrast&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh000070&theme=darcula&no-frame=true&no-bg=false&margin-w=6" />
+🎓 Final Year B.Tech Student in Information Technology
+
+💻 Passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications.
+
+🌱 Currently learning
+
+- System Design
+- DevOps
+- Scalable Backend Architecture
+- Cloud Deployment
+
+💡 Interests
+
+- Full Stack Development
+- Open Source
+- Modern UI/UX
+- Real-Time Applications
+- Cloud Computing
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,java,c,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repo
+# 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description | 🛠 Tech |
+|------------|---------------|---------|
+| **NotifyHub** | Real-Time Notification Platform | MERN, Socket.io |
+| **CHAKRAVYUH** | AI-Powered Information Analysis Platform | React, Gemini API |
+| **AgroPredict** | Smart Crop Prediction Platform | React |
+| **Portfolio Website** | Personal Developer Portfolio | React, Tailwind |
+
+---
+
+# 🏆 Achievements
+
+🏅 GSSoC Contributor
+
+🏅 PR & Marketing Head — NIST Cloud Computing Club
+
+🏅 Core Member — NIST Cloud Computing Club
+
+🏅 Passionate Open Source Learner
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh000070&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh000070&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rakesh000070&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh000070&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rakesh000070&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📌 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/Rakesh000070/NotifyHub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh000070&repo=NotifyHub&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Rakesh000070/World-clock">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh000070&repo=World-clock&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rakesh2332341k@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rakesh-nayak07">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://rakesh-dev.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Dev Quote
 
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh000070&theme=github_dark" 
-  />
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
 </div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-> I love turning ideas into interactive websites, and problems into production-ready code.  
-> 🧠 Coffee, code, and creativity is how I roll!
+### ⭐ Code • Build • Learn • Repeat ⭐
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakesh000070&style=flat-square&color=brightgreen" />
-</p>
-
----
-
-<!-- Proudly created with 💙 by Rakesh using ChatGPT-4.0 style formatting -->
+</div>
