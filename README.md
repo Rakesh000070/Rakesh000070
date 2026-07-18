@@ -41,36 +41,11 @@
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,java,c,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=javascript,java,c,html,css,react,bootstrap,tailwind,vite,nodejs,express,mongodb,mysql,aws,git,github,postman,vscode,vercel&perline=10" />
 
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### ☁ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel" />
-</p>
-
+</div>
 ---
 
 # 🚀 Featured Projects
